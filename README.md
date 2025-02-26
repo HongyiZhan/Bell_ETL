@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the Fraud Detection ETL Pipeline project! This project demonstrates the development of an **ETL pipeline integrated with SAS** to process **credit card transactions**, apply **machine learning for fraud detection**, and generate **reporting insights** to drive business decisions. The pipeline is structured to be adaptable for various data-driven applications, including marketing and finance.
 
-## Workflow Stages
+## Workflow Stages ![Workflow Stages](flowchart.png)
 The workflow consists of five key stages:
 1. **Data Extraction**: Downloading transaction data from Kaggle and storing it in a GitHub repository.
 2. **Data Processing**: Cleaning and transforming the data using **SQL and SAS**.
