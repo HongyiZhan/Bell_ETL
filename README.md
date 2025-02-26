@@ -11,7 +11,7 @@ The workflow consists of five key stages:
 4. **Modeling**: Building a **fraud detection model** using **Python (Random Forest Classifier)**.
 5. **Visualization**: Creating **SAS-based dashboards and reports** to identify fraud trends.
 
-## Dataset
+## [Dataset](https://www.kaggle.com/datasets/ealtman2019/credit-card-transactions/data?select=sd254_users.csv)
 - The dataset is sourced from **IBM's financial database** via Kaggle.
 - It consists of **24 million credit card transaction records**.
 - For demonstration, a **subset of 1,164 rows and 15 variables** is used.
